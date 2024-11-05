@@ -22,5 +22,5 @@
   <h2>Future Goals</h2>
   <p>In the future, I aim to deepen my expertise in data science and automation, continuously learning new methodologies and tools. By sharing my journey, I hope to connect with like-minded individuals who are also dedicated to solving complex problems through data. Together, let’s make a meaningful impact in the world of data and technology.</p>
 
-  <p><a href="about.md">Learn more about me</a></p>
+  <p><a href="index.md">Back to Home</a></p>
 </div>
