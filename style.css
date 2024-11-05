@@ -2,9 +2,9 @@
 
 body {
   font-family: 'Noto Sans KR', sans-serif;
-  font-size: 1.2em; /* 글자 크기 키우기 */
-  line-height: 1.6; /* 줄 간격 조절 */
-  color: #333; /* 글자 색상 변경 */
+  font-size: 1.4em; /* 글자 크기 키우기 */
+  line-height: 1.8; /* 줄 간격 조절 */
+  color: #333;
   margin: 0;
   padding: 0;
   display: flex;
