@@ -2,4 +2,18 @@
 
 body {
   font-family: 'Noto Sans KR', sans-serif;
+  font-size: 1.2em; /* 글자 크기 키우기 */
+  line-height: 1.6; /* 줄 간격 조절 */
+  color: #333; /* 글자 색상 변경 */
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+/* 콘텐츠를 중앙에 배치하는 컨테이너 */
+.container {
+  max-width: 800px; /* 컨테이너 최대 너비 설정 */
+  padding: 20px;
+  text-align: center; /* 가운데 정렬 */
 }
