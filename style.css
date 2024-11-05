@@ -11,6 +11,10 @@ body {
   justify-content: center;
 }
 
+p {
+  margin-bottom: 1em; /* 단락 사이에 여백 추가 */
+}
+
 /* 콘텐츠를 중앙에 배치하는 컨테이너 */
 .container {
   max-width: 800px; /* 컨테이너 최대 너비 설정 */
