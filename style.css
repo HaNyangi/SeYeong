@@ -19,5 +19,5 @@ p {
 .container {
   max-width: 800px; /* 컨테이너 최대 너비 설정 */
   padding: 20px;
-  text-align: center; /* 가운데 정렬 */
+  text-align: left; /* 가운데 정렬 */
 }
