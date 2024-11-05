@@ -1,23 +1,51 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
 
+/* 페이지 기본 스타일 */
 body {
   font-family: 'Noto Sans KR', sans-serif;
-  font-size: 1.4em; /* 글자 크기 키우기 */
-  line-height: 1.8; /* 줄 간격 조절 */
+  line-height: 1.8;
   color: #333;
-  margin: 0;
-  padding: 0;
   display: flex;
   justify-content: center;
+  background-color: #f8f9fa;
 }
 
-p {
-  margin-bottom: 1em; /* 단락 사이에 여백 추가 */
-}
-
-/* 콘텐츠를 중앙에 배치하는 컨테이너 */
+/* 컨테이너 스타일 */
 .container {
-  max-width: 800px; /* 컨테이너 최대 너비 설정 */
+  max-width: 800px;
   padding: 20px;
-  text-align: left; /* 가운데 정렬 */
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* 제목 스타일 */
+h1 {
+  font-size: 1.8em;
+  color: #007acc;
+  text-align: center;
+}
+
+h2, h3 {
+  color: #005b96;
+  margin-top: 20px;
+}
+
+/* 목차 스타일 */
+.toc {
+  padding: 10px;
+  background-color: #e9ecef;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+/* 단락 간격 */
+p {
+  margin-bottom: 1em;
+}
+
+/* 목록 스타일 */
+ul {
+  padding-left: 20px;
+  margin-bottom: 1em;
 }
