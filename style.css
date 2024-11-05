@@ -49,3 +49,12 @@ ul {
   padding-left: 20px;
   margin-bottom: 1em;
 }
+
+/* 메인 제목 스타일 */
+h1 {
+  font-size: 2em;
+  color: #005b96;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
