@@ -1,1 +1,3 @@
 theme: minima
+title: ""  # 제목 제거
+description: ""  # 설명 제거
