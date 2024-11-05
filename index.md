@@ -1,26 +1,6 @@
 <link rel="stylesheet" href="style.css">
 
 <div class="container">
-
-<h1>소개</h1>
-<p>안녕하세요! 저는 데이터 분석과 자동화에 관심이 많은 분석가로서, 더 효율적이고 데이터 기반의 의사결정을 지원하는 도구를 만들고 싶습니다. 금융 데이터를 중심으로 다양한 분석과 RPA(로보틱 프로세스 자동화)에 대해 공부하며 폭넓은 지식을 쌓아가고 있습니다.</p>
-
-<h2>기술 및 관심 분야</h2>
-<ul>
-  <li><strong>프로그래밍 언어</strong>: Python, SQL, JavaScript</li>
-  <li><strong>데이터 분석</strong>: 금융 데이터 분석, 통계 분석, 머신러닝</li>
-  <li><strong>자동화</strong>: RPA(로보틱 프로세스 자동화), 업무 효율화 솔루션</li>
-  <li><strong>기타 관심 분야</strong>: 비즈니스 인텔리전스(BI), 데이터 시각화 도구 (예: Tableau, Power BI)</li>
-</ul>
-
-<h2>프로젝트 및 학습 기록</h2>
-<ol>
-  <li><strong>RPA 기반 업무 자동화</strong>: 반복적인 금융 업무를 RPA를 통해 자동화하여 효율성을 높이는 방법을 학습하고 있습니다.</li>
-  <li><strong>이상 거래 감지 모델</strong>: 금융 데이터에서 이상 거래 패턴을 감지하는 머신러닝 모델을 구축하고 있습니다. 비지도 학습과 지도 학습을 결합해 거래 데이터를 분석하고 있습니다.</li>
-  <li><strong>데이터 시각화 프로젝트</strong>: Python과 Tableau를 사용하여 금융 데이터를 시각화하고, 고객 행동 패턴을 분석하는 데 필요한 기술을 익히고 있습니다.</li>
-</ol>
-
-<h2>미래 목표</h2>
-<p>앞으로 더 많은 금융 데이터와 자동화 프로젝트를 통해 데이터 기반의 의사결정을 돕는 도구를 만들고, 새로운 데이터 분석 기법과 모델링 기법을 배우며 발전하고자 합니다. 데이터를 통해 문제를 해결하고, 더 나은 금융 서비스를 만드는 데 기여하고 싶습니다.</p>
-
+  <h1>Exploring Data in the Heart of Nature</h1>
+  <p>Amidst the lush forests and gentle breezes of Jeju, I delve into the world of data and code, seeking insights and crafting automation that bridges technology with the natural world. Driven by a relentless curiosity and passion for problem-solving, I invite you to join me on this journey. Together, let’s explore, learn, and innovate.</p>
 </div>
